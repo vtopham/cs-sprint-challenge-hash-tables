@@ -17,6 +17,7 @@ class TestEx2(unittest.TestCase):
             [1],
             [1],
         ])
+        
         self.assertTrue(result == [1])
 
         result = intersection([
