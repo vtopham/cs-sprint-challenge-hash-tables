@@ -1,3 +1,5 @@
+#COMPLETE... TEST PASSING
+
 def intersection(arrays):
     """
     YOUR CODE HERE
